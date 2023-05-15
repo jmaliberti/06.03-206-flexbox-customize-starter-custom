@@ -132,10 +132,11 @@ body {
   height: 300px;
   justify-content: center;
   align-items: center;
+  display: flex;
 }
 
 #content p span {
-  font-family: 'Lora', sans-serif;
+  font-style: italic;
 }
 
 
